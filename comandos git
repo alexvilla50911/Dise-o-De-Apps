@@ -1,0 +1,15 @@
+git clone <rama>
+git branch <rama> 
+para ver rama git branch <rama>
+enviar una rama al repo git push <rama>
+ver ramas git branch --list
+borrar una rama git branch -d <rama>
+
+
+Git checkout para cambiar de rama
+Git status para ver el estado de los cambios en codigo
+Git add: agregar archivos
+Git commit subir cambios
+Git push: ennviar los cambios
+Git pull: para recibir actualizaciones
+Git revert para deshacer cambios
